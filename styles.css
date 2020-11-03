@@ -2,13 +2,14 @@ h1 {
     text-align: center;
 }
 
+
 div {
     text-align: left;
 }
 
-#faultyItems {
-    visibility: hidden;   
-}
+/* #faultyItems {
+       
+} */
 
 #launchForm {
     background-color: #ECF0F1;
